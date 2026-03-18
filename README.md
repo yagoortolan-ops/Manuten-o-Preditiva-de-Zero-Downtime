@@ -1,4 +1,4 @@
-# Projeto: Título do Projeto
+# Projeto: Manutenção Preditiva de Zero-Downtime: previsão de falhas em sistemas críticos antes que elas ocorram, utilizando dados de sensores e modelos analíticos para evitar paradas não planejadas.
 
 ### 1. Identificação do Grupo
 * **Instituição:** Faculdade Engenheiro Salvador Arena (FESA) / UNICID
