@@ -1,7 +1,7 @@
-# Projeto: Manutenção Preditiva de Zero-Downtime: previsão de falhas em sistemas críticos antes que elas ocorram, utilizando dados de sensores e modelos analíticos para evitar paradas não planejadas.
+# Projeto: Manutenção Preditiva de Zero-Downtime: previsão de falhas em sistemas críticos, utilizando dados de sensores e modelos analíticos para evitar paradas não planejadas.
 
 ### 1. Identificação do Grupo
-* **Instituição:** Faculdade Engenheiro Salvador Arena (FESA) / UNICID
+* **Instituição:** Faculdade Engenheiro Salvador Arena (FESA)
 * **Curso:** Engenharia de Controle e Automação - ECA10
 * **Grupo:** Manutenção Preditiva de Zero-Downtime: previsão de falhas em sistemas críticos antes que elas ocorram, utilizando dados de sensores e modelos analíticos para evitar paradas não planejadas.
 * **Integrantes:**
